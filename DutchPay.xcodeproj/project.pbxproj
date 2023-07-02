@@ -61,8 +61,6 @@
 				1ECE8CB92A50FDBB0088A5E8 /* Controller */,
 				1ECE8CA32A50FB6B0088A5E8 /* AppDelegate.swift */,
 				1ECE8CA52A50FB6B0088A5E8 /* SceneDelegate.swift */,
-				1ECE8CA72A50FB6B0088A5E8 /* ViewController.swift */,
-				1ECE8CA92A50FB6B0088A5E8 /* Main.storyboard */,
 				1ECE8CAC2A50FB6C0088A5E8 /* Assets.xcassets */,
 				1ECE8CAE2A50FB6C0088A5E8 /* LaunchScreen.storyboard */,
 				1ECE8CB12A50FB6C0088A5E8 /* Info.plist */,
@@ -80,6 +78,7 @@
 		1ECE8CB82A50FDAD0088A5E8 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				1ECE8CA92A50FB6B0088A5E8 /* Main.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -87,6 +86,7 @@
 		1ECE8CB92A50FDBB0088A5E8 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				1ECE8CA72A50FB6B0088A5E8 /* ViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
