@@ -56,6 +56,9 @@
 		1ECE8CA22A50FB6B0088A5E8 /* DutchPay */ = {
 			isa = PBXGroup;
 			children = (
+				1ECE8CB72A50FD9F0088A5E8 /* Model */,
+				1ECE8CB82A50FDAD0088A5E8 /* View */,
+				1ECE8CB92A50FDBB0088A5E8 /* Controller */,
 				1ECE8CA32A50FB6B0088A5E8 /* AppDelegate.swift */,
 				1ECE8CA52A50FB6B0088A5E8 /* SceneDelegate.swift */,
 				1ECE8CA72A50FB6B0088A5E8 /* ViewController.swift */,
@@ -65,6 +68,27 @@
 				1ECE8CB12A50FB6C0088A5E8 /* Info.plist */,
 			);
 			path = DutchPay;
+			sourceTree = "<group>";
+		};
+		1ECE8CB72A50FD9F0088A5E8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1ECE8CB82A50FDAD0088A5E8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		1ECE8CB92A50FDBB0088A5E8 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
