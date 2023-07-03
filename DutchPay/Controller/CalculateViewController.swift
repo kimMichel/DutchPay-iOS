@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CalculateViewController: UIViewController {
 
     @IBOutlet weak var billTextField: UITextField!
     @IBOutlet weak var zeroPcButton: UIButton!
